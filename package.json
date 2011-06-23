@@ -1,0 +1,27 @@
+{
+	"name" : "redis-namespace",
+	"description" : "redis namespacing for node",
+	"keywords" : ["redis", "key-value stores", "namespacing"],
+	"version" : "0.1.0",
+	"contributors": [
+		{
+			"name": "Aaron Schlesinger",
+			"web": "http://github.com/arschles"
+		}
+	],
+	"author" : "Aaron Schlesinger <arschles@gmail.com> (http://github.com/arschles/node-redis-namespace)",
+	"bugs" : {
+		"web" : "http://github.com/arschles/node-redis-namespace/issues"
+	},
+	"main" : "./index.js",
+	"directories" : {
+		"lib" : "./lib"
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : "git://github.com/arschles/node-redis-namespace.git"
+	},
+	"engines" : { "node" : ">=0.4.0"},
+	"dependencies" : {"node-redis": "0.1.3"},
+	"licenses" : ["MIT"]
+}
