@@ -6,11 +6,15 @@
     "key-value stores",
     "namespacing"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "contributors": [
     {
       "name": "Aaron Schlesinger",
       "web": "http://github.com/arschles"
+    },
+    {
+      "name": "Nicholas Valbusa",
+      "web": "http://github.com/squallstar"
     }
   ],
   "author": "Aaron Schlesinger <arschles@gmail.com> (http://github.com/arschles/node-redis-namespace)",
